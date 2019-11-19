@@ -1,0 +1,53 @@
+.senator__bold {
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.senator__district {
+  margin-top: 2px;
+}
+
+.senator__affiliation {
+  margin-top: 2px;
+}
+
+.legislations {
+  font-weight: bold;
+}
+
+.recent__legislations {
+  margin-top: 8px;
+  color: red;
+}
+
+.senator__name {
+  text-align: center;
+}
+
+.senator__image {
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  background-image: url(https://ak1.picdn.net/shutterstock/videos/1008751/thumb/1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#senator {
+  color: white;
+  font-size: 1.3em;
+}
+
+a:link {
+  color: red;
+}
+
+a:hover {
+  color: white;
+}
+
+a:visited {
+  color: rgb(250, 0, 204)
+}
